@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently for opportunities in tech
+- 🔭 I’m currently looking for opportunities in tech
 - 🌱 I’m currently learning algorithms
 - 👯 I’m looking to collaborate on React projects
 - 🤔 I’m looking for open source projects to contribute
